@@ -113,8 +113,8 @@ Reading stops at the first non-digit character 'w'.
 
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 9.2 MB (beats 48.80%)  
-**Submitted:** 2026-10-31T07:11:17.557Z  
+**Memory:** 9.1 MB (beats 48.51%)  
+**Submitted:** 2026-11-01T16:10:12.395Z  
 
 ```cpp
 
